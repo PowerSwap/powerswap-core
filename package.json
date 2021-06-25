@@ -1,7 +1,7 @@
 {
   "name": "@powerswap/core",
   "description": "🎛 Core contracts for the Power exchanges",
-  "version": "1.0.5",
+  "version": "2.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/PowerSwap/powerswap-core"

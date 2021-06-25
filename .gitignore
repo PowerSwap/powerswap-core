@@ -3,3 +3,4 @@ build/
 flatten/
 .env
 migrations/
+yarn-error.log
